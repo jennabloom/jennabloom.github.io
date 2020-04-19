@@ -1,121 +1,167 @@
-Koberl at Blue
+<!DOCTYPE html>
+<html>
+<head> <title>Koberl at Blue</title></head>
+<body>
+<h1>Main Menu</h1>
 
-Main Menu
+<h2>Appetizers</h2>
 
-Appetizers
+<ul>
+<li>Tempura Fried</li>
 
-Tempura Fried
+<li>with lemon soy aioli and wasabi tobiko</li>
 
-with lemon soy aioli and wasabi tobiko
+<li>$16.00</li> 
+</ul>
 
-$16.00
+<ul>
+<li>Seared Sea Scallops</li>
 
-Seared Sea Scallops
+<li>with artichoke duxelle, bacon brown butter and radish sprouts or seasoned with hiwa kai sea salt on edamame puree with citrus vinaigrette</li>
 
-with artichoke duxelle, bacon brown butter and radish sprouts or seasoned with hiwa kai sea salt on edamame puree with citrus vinaigrette
+<li>$15.00</li> 
+</ul>
+    
+<ul>
+<li>Crispy Snow Crab chinois</li>
 
-$15.00
+<li>with ginger, garlic and cilantro</li>
 
-Crispy Snow Crab chinois
+<li>$14.00</li> 
+</ul>
 
-with ginger, garlic and cilantro
+<ul>
+<li>Shrimp</li>
 
-$14.00
+<li>tempura with tomato, chipotle and avocado relish or sauteed, with artichoke duxelle, bacon brown butter and radish sprouts</li>
 
-Shrimp
+<li>$14.00</li> 
+</ul>
 
-tempura with tomato, chipotle and avocado relish or sauteed, with artichoke duxelle, bacon brown butter and radish sprouts
+<ul>
+<li>Beef Filet Carpaccio</li>
 
-$14.00
+<li>horseradish aioli, shaved parmigiano reggiano, salad of celery root, parsley and sweet onion</li>
 
-Beef Filet Carpaccio
+<li>$12.00</li>
+</ul> 
 
-horseradish aioli, shaved parmigiano reggiano, salad of celery root, parsley and sweet onion
+<ul>
+<li>Sauteed Veal Sweetbread and Shrimp</li>
 
-$12.00
+<li>salad of shitake mushrooms, orange and field greens in sherry dressing</li>
 
-Sauteed Veal Sweetbread and Shrimp
+<li>$14.00</li>
+</ul> 
 
-salad of shitake mushrooms, orange and field greens in sherry dressing
 
-$14.00
+<h2>Salads</h2>
+    
+<ul>
+<li>Butter Leaf and Fuji Apple</li>
 
-Salads
+<li>maytag blue cheese, candied walnuts, champagne vinaigrette</li>
 
-Butter Leaf and Fuji Apple
+<li>$8.00</li> 
+</ul>
 
-maytag blue cheese, candied walnuts, champagne vinaigrette
+    
+<ul>
+<li>Caesar</li>
 
-$8.00
+<li>hearts of romaine, garlic croutons, spanish white anchovies, parmesano reggiano</li>
 
-Caesar
+<li>$8.00</li> 
+</ul>
 
-hearts of romaine, garlic croutons, spanish white anchovies, parmesano reggiano
+    
+<ul>
+<li>Field Greens and Avocado BLT</li>
 
-$8.00
+<li>caramelized onion and bacon bruschetta, tomatoes and creamy red wine dressing</li>
 
-Field Greens and Avocado BLT
-
-caramelized onion and bacon bruschetta, tomatoes and creamy red wine dressing
-
-$9.00
+<li>$9.00</li> 
+</ul>
 
  
+<h2>Entrees</h2>
 
-Entrees
+<ul>
+<li>Pan Roasted Chicken Breast</li>
 
-Pan Roasted Chicken Breast
+<li>artichoke risotto cake, grilled asparagus, mushroom marsala cream sauce and almond gremolata</li>
 
-artichoke risotto cake, grilled asparagus, mushroom marsala cream sauce and almond gremolata
+<li>$22.00</li> 
+</ul>
+    
 
-$22.00
+<ul>
+<li>Herb Roasted Halibut</li>
 
-Herb Roasted Halibut
+<li>wild mushroom ravioli, sauteed spinach, basil vermouth sauce and melted tomatoes</li>
 
-wild mushroom ravioli, sauteed spinach, basil vermouth sauce and melted tomatoes
+<li>$30.00</li> 
+</ul>
 
-$30.00
+<ul>
+<li>Crispy Filet of Salmon</li>
 
-Crispy Filet of Salmon
+<li>on saffron pearl couscous with chorizo, menage au pois, lemon beurre blanc and roasted tomato, olive and caper relish</li>
 
-on saffron pearl couscous with chorizo, menage au pois, lemon beurre blanc and roasted tomato, olive and caper relish
+<li>$25.00</li> 
+</ul>
 
-$25.00
+<ul>
+<li>Coriander Seared Sea Scallops and Shrimp</li>
 
-Coriander Seared Sea Scallops and Shrimp
+<li>on spiced chucka soba noodles, asparagus and mushrooms, lemon ginger butter sauce</li>
 
-spiced chucka soba noodles, asparagus and mushrooms, lemon ginger butter sauce
+<li>$28.00</li> 
+</ul>
 
-$28.00
+<ul>
+<li>Sauteed Duck Breast and Confit of Duck</li>
 
-Sauteed Duck Breast and Confit of Duck
+<li>spring vegetable and yukon gold hash with applewood smoked bacon and goat cheese, rainbow chard and port blackberry sauce</li>
 
-spring vegetable and yukon gold hash with applewood smoked bacon and goat cheese, rainbow chard and port blackberry sauce
+<li>$28.00</li> 
+</ul>
 
-$28.00
+<ul>
+<li>Grilled Pork Chop</li>
 
-Grilled Pork Chop
+<li>roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercress tarragon mustard sauce</li>
 
-roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercress tarragon mustard sauce
+<li>$25.00</li> 
+</ul>
 
-$25.00
 
-Dessert
+<h2>Dessert</h2>
 
-Dark Chocolate Mousse
+<ul>
+<li>Dark Chocolate Mousse</li>
 
-with whipped cream and almond wafer
+<li>with whipped cream and almond wafer</li>
 
-$10.00
+<li>$10.00</li> 
+</ul>
+    
+<ul>
+<li>Creme Brulee</li>
 
-Creme Brulee
+<li>french vanilla custard, fresh berries</li>
 
-french vanilla custard, fresh berries
+<li>$8.00</li> 
+</ul>
+    
+<ul>
+<li>Chocolate Lava Cake</li>
 
-$8.00
+<li>raspberry coulis, creme anglaise</li>
 
-Chocolate Lava Cake
+<li>$12.00</li> 
+</ul>
 
-raspberry coulis, creme anglaise
-
-$12.00
+ 
+</body>
+</html>
