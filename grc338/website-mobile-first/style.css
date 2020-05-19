@@ -1,0 +1,147 @@
+/*CSS DOCUMENT*/
+
+body {
+    font-family: sans-serif; 
+    margin-left: 2em; 
+    margin-right: 2em; 
+    background-color: aliceblue;
+}
+
+nav ul{
+    padding:0em;
+    text-align: center;
+}
+
+nav li{
+    
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(100,100,100);
+    font-size: 1.3em;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .8em; 
+}
+
+nav a:hover {
+  color: rgb(200,200,100);
+}
+
+.logo {
+    width: 75%;
+    padding-bottom: 0em
+}
+
+
+.intro {
+    padding-bottom: 1em;
+}
+
+img { 
+    padding-bottom: 1.2em;
+    padding-top: 1em
+}
+
+
+h1 {
+    color: rgb(300,100,100);
+    font-size: 2.3em; 
+    text-align: center;
+    margin-bottom: 1em;
+    margin-bottom: .5em;
+}
+
+h3 {
+    font-family: sans-serif; 
+    text-transform: uppercase;
+    margin-top: 1.3em;
+    color: rgb(50,100,100)
+}
+
+h4 {
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+p {
+    margin-bottom: 0em;
+    margin-top: 0em;
+    max-width: 40em
+}
+
+ul {
+    list-style-type: none;
+    padding:0em;
+}
+
+.price {
+    font-style: italic;
+    padding-bottom: 1em;
+}
+
+.margarita {
+    max-width: 95%;
+}
+
+.center {
+    text-align: center; 
+}
+
+.location {
+    width: 95%
+}
+
+.home {
+    margin: auto;
+    width: 100%;
+}
+
+.rosa{
+    width: 80%;
+    padding-bottom: 2em;
+}
+.address {
+    line-height: 1.5em;
+    text-align: center;
+    margin-bottom: auto;
+    font-size: 1.2em
+    
+}
+
+.opening {
+    padding-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.about1 {
+    padding-bottom: 1em;
+    max-width: 35em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.1em
+}
+
+.about2 {
+    padding-bottom: 1em;
+    max-width: 35em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.1em
+}
+
+.about3 {
+    max-width: 35em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.1em
+}
+
